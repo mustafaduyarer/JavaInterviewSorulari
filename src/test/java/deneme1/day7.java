@@ -12,7 +12,7 @@ public class day7 {
 
 
 
-        int sayi = 6;
+        int sayi = 7;
         boolean sonuc = mukemmelSayiKontrol(sayi);
         System.out.println(sonuc);
     }

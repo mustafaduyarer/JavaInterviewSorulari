@@ -3,7 +3,7 @@ package deneme1;
 public class day9 {
     public static void main(String[] args) {
 
-        int [] array = {2,3,5,7,9,77,66,55,44};
+        int [] array = {2,3,5,7,9,77,66,55,44,88};
 
         int num1=0;
         int num2=0;
