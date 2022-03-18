@@ -6,7 +6,7 @@ public class day6 {
 
 
     public static void main(String[] args) {
-       String metin= "Bugun mustafa ve mustafa mustafa ile beraber gittiler";
+       String metin= "Bugun ve bugun mustafa ve mustafa mustafa ile beraber gittiler";
        String [] parcala = metin.split(" ");
 
         HashMap<String, Integer> kelimeler = new HashMap<>();
